@@ -13,7 +13,7 @@ h1 {
     padding: 50px;
     display: none;
     background: linear-gradient(to bottom, #cc3300 0%, #ffff99 100%);
-    height: 500px;
+    height: 550px;
   }
   #panel, #flip:hover {
     color:blue;
