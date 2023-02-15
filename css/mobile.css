@@ -4,7 +4,7 @@
         display: none;
    }
    #loading {
-    width: 50%;  height: 50%;  margin: 0 auto;
+    width: 80%;  height: 80%;  margin: 0 auto;
     background: url(../images/loader.gif);
     background-position: center center;
     background-size: 40%;  background-repeat: no-repeat;  background-position: center;
